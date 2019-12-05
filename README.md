@@ -1,2 +1,2 @@
 # trabalho
-Trabalho ES
+Projeto de grupo para engenharia de software
