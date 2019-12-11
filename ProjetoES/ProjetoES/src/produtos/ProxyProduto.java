@@ -10,7 +10,11 @@ public class ProxyProduto implements IProduto {
 
 	private ArrayList<IProduto> produtos;
 
-	private ProdutoFactory factory;
+	@Override
+	public boolean updateStock(int quant) {
+		// TODO Auto-generated method stub
+		return false;
+	}
 
 
 }

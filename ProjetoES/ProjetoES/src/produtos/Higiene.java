@@ -11,5 +11,11 @@ public class Higiene extends Produto {
 
 	private Genero genero;
 
+	@Override
+	public boolean updateStock(int quant) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 
 }

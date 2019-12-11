@@ -13,6 +13,12 @@ public class Comida extends Produto {
 
 	private ArrayList<Embalagem> embalagens;
 
+	@Override
+	public boolean updateStock(int quant) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 
 
 }
