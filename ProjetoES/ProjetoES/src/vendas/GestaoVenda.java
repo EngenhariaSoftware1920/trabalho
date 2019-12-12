@@ -8,6 +8,6 @@ public class GestaoVenda {
 	}
 
 	private ArrayList<Venda> venda;
-
+ //jdjdjdjdjd
 
 }
