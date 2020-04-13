@@ -9,13 +9,14 @@
       <entry key="newform.superclass.history1" value="javax.swing.JFrame" />
       <entry key="newform.superclass" value="javax.swing.JFrame" />
       <entry key="newform.toolkit" value="Swing" />
-      <entry key="properties.expanded.bindings" value="true" />
-      <entry key="properties.expanded.layout" value="false" />
       <entry key="properties.showfilter" value="true" />
+      <entry key="properties.expanded.constraints" value="false" />
+      <entry key="stringeditor.size" value="616, 240" />
+      <entry key="properties.expanded.category.expert" value="true" />
       <entry key="properties.expanded.category.properties" value="false" />
       <node name="forms">
         <entry key="paletteexpanded1231689628" value="components,containers" />
-        <entry key="selection1231689628" value="label4" />
+        <entry key="selection1231689628" value="message_btn" />
       </node>
     </node>
   </component>
